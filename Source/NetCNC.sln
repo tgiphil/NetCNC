@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCNC.Firmware", "NetCNC.Firmware\NetCNC.Firmware.csproj", "{6884453B-7BAF-41C6-8271-99F9E6ED27B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCNC.Library", "NetCNC.Library\NetCNC.Library.csproj", "{4B3C21C0-016D-48FF-AFAE-E82F3E00CDAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCNC.Devices", "NetCNC.Devices\NetCNC.Devices.csproj", "{A1C78008-7582-46D3-9B0A-537512E763F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6884453B-7BAF-41C6-8271-99F9E6ED27B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6884453B-7BAF-41C6-8271-99F9E6ED27B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6884453B-7BAF-41C6-8271-99F9E6ED27B6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6884453B-7BAF-41C6-8271-99F9E6ED27B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6884453B-7BAF-41C6-8271-99F9E6ED27B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6884453B-7BAF-41C6-8271-99F9E6ED27B6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4B3C21C0-016D-48FF-AFAE-E82F3E00CDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3C21C0-016D-48FF-AFAE-E82F3E00CDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3C21C0-016D-48FF-AFAE-E82F3E00CDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3C21C0-016D-48FF-AFAE-E82F3E00CDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C78008-7582-46D3-9B0A-537512E763F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C78008-7582-46D3-9B0A-537512E763F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C78008-7582-46D3-9B0A-537512E763F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C78008-7582-46D3-9B0A-537512E763F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
